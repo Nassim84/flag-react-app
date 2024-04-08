@@ -26,7 +26,7 @@ git clone https://github.com/Nassim84/flag-react-app.git
 
 2. Navigate to the project directory:
 
-cd country-explorer
+cd flag-react-app 
 
 3. Install the dependencies:
    
