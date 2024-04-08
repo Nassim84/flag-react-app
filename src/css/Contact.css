@@ -1,0 +1,40 @@
+/* Contact.css */
+.contact-container {
+	text-align: center;
+	padding: 50px;
+}
+
+.contact-form {
+	margin: auto;
+	max-width: 400px;
+}
+
+.input-field,
+.textarea-field {
+	width: 100%;
+	padding: 10px;
+	margin: 10px 0;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	box-sizing: border-box;
+	transition: border-color 0.3s ease-in-out;
+}
+
+.input-field:focus,
+.textarea-field:focus {
+	border-color: #007bff;
+}
+
+.submit-btn {
+	background-color: #007bff;
+	color: white;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: background-color 0.3s ease-in-out;
+}
+
+.submit-btn:hover {
+	background-color: #0056b3;
+}
