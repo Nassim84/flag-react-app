@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Nassim84/flag-react-app/static/css/main.6a3dface.css",
+    "main.js": "/Nassim84/flag-react-app/static/js/main.e6874a37.js",
+    "static/media/404.png": "/Nassim84/flag-react-app/static/media/404.a7de5d455f85c55ead87.png",
+    "index.html": "/Nassim84/flag-react-app/index.html",
+    "main.6a3dface.css.map": "/Nassim84/flag-react-app/static/css/main.6a3dface.css.map",
+    "main.e6874a37.js.map": "/Nassim84/flag-react-app/static/js/main.e6874a37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a3dface.css",
+    "static/js/main.e6874a37.js"
+  ]
+}
