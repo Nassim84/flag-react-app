@@ -55,7 +55,7 @@ The Country Explorer project is open-source and released under the [MIT License]
 
 ![Country Explorer](src/assets/img//preview.jpg)
 
-**Country Explorer Site Preview:** This image provides a sneak peek of the Country Explorer frontend application. Explore countries, their flags, populations, and more with this intuitive and visually appealing web app!
+**Country Explorer Site Preview:** This image provides a sneak peek of the Country Explorer frontend application. Explore countries, their flags, populations, and more with this intuitive and visually appealing web app! You can experience it live at [https://nassim84.github.io/flag-react-app/](https://nassim84.github.io/flag-react-app/).
 
 
 
